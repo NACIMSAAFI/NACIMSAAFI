@@ -22,7 +22,6 @@ LinkedIn: [www.linkedin.com/in/nacim-saâfi]
 He/Him
 - ⚡ Fun fact
 Before starting my tech journey, I spent over 8 years in industrial and commercial management. My experience taught me the importance of efficiency and client satisfaction, which now drives my approach to software development.
--->
 
 🛠️ Skills
 - Languages: 🐍 Python | 💻 C | 📜 JavaScript
