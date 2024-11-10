@@ -14,7 +14,11 @@ Expanding my knowledge in DevOps and cloud deployment. I want to learn more abou
 Building solutions for workflow optimization, my transition from industrial management to software engineering, or my project at Holberton School. I’m always happy to discuss coding, design, or share tips on managing the learning journey in tech!
 📫 How to reach me:
 Email: nacim.saafi@gmail.com
-LinkedIn: linkedin.com/in/nacim-saâfi
+
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/nacim-saâfi"
 
 - 😄 Pronouns
 He/Him
