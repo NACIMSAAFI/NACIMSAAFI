@@ -25,11 +25,11 @@ Before starting my tech journey, I spent over 8 years in industrial and commerci
 -->
 
 🛠️ Skills
-Languages: 🐍 Python | 💻 C | 📜 JavaScript
-Frameworks & Libraries: 🌐 Flask | 🟢 Node.js
-Databases: 🐬 MySQL | 🍃 MongoDB
-Frontend: 🎨 HTML5 | 💅 CSS3
-Tools & Environments: 🔧 VS Code | 🖥️ Microsoft | 🌀 Git
+-Languages: 🐍 Python | 💻 C | 📜 JavaScript
+-Frameworks & Libraries: 🌐 Flask | 🟢 Node.js
+-Databases: 🐬 MySQL | 🍃 MongoDB
+-Frontend: 🎨 HTML5 | 💅 CSS3
+-Tools & Environments: 🔧 VS Code | 🖥️ Microsoft | 🌀 Git
 
 🔎 About Me
 Beyond tech, I’m inspired by art, cinema, and music. I love exploring unique philosophies and learning about what drives others. Whether building a tool for productivity or crafting a digital experience, I’m always driven by curiosity and the goal of creating something impactful.
