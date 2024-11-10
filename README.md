@@ -1,11 +1,8 @@
 Hi, I’m Nacim Saafi! 👋
 
 🖥️ Software Engineer | Full Stack Developer | Former Industrial & Commercial Manager
-Driven by curiosity and a passion for problem-solving, I’m a Software Engineer ready to take on new challenges and continuously grow. My unique background in industrial and commercial management has given me a strong foundation in team leadership, client relations, and process optimization—skills I now bring to the world of tech.
-
+- Driven by curiosity and a passion for problem-solving, I’m a Software Engineer ready to take on new challenges and continuously grow. My unique background in industrial and commercial management has given me a strong foundation in team leadership, client relations, and process optimization—skills I now bring to the world of tech.
 I believe in building software that makes a difference, and I’m always looking for exciting projects that push the boundaries of what’s possible.
-
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning
 Advanced concepts in web development, focusing on enhancing user experience, optimizing backend logic, and exploring frontend frameworks. I'm also diving deeper into API integrations and best practices in software architecture.
@@ -31,5 +28,5 @@ Before starting my tech journey, I spent over 8 years in industrial and commerci
 - Tools & Environments: 🔧 VS Code | 🖥️ Microsoft | 🌀 Git
 
 🔎 About Me
-Beyond tech, I’m inspired by art, cinema, and music. I love exploring unique philosophies and learning about what drives others. Whether building a tool for productivity or crafting a digital experience, I’m always driven by curiosity and the goal of creating something impactful.
+- Beyond tech, I’m inspired by art, cinema, and music. I love exploring unique philosophies and learning about what drives others. Whether building a tool for productivity or crafting a digital experience, I’m always driven by curiosity and the goal of creating something impactful.
 
