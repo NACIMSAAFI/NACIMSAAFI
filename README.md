@@ -12,9 +12,10 @@ Projects that focus on workflow automation, financial management tools, or anyth
 Expanding my knowledge in DevOps and cloud deployment. I want to learn more about CI/CD pipelines, Docker, and cloud platforms to better manage and scale applications.
 - 💬 Ask me about
 Building solutions for workflow optimization, my transition from industrial management to software engineering, or my project at Holberton School. I’m always happy to discuss coding, design, or share tips on managing the learning journey in tech!
-- 📫 How to reach me:
+📫 How to reach me:
 Email: nacim.saafi@gmail.com
 LinkedIn: linkedin.com/in/nacim-saâfi
+
 - 😄 Pronouns
 He/Him
 - ⚡ Fun fact
