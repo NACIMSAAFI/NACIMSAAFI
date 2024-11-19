@@ -25,8 +25,8 @@ Before starting my tech journey, I spent over 8 years in industrial and commerci
 🛠️ Skills
 - Languages: 🐍 Python | 💻 C | 📜 JavaScript
 - Frameworks & Libraries: 🌐 Flask | 🟢 Node.js
-- Databases: 🐬 MySQL | 🍃 MongoDB
-- Frontend: 🎨 HTML5 | 💅 CSS3
+- Databases: 🐬 MySQL | 🍃 MongoDB | 🔴 Redis 
+- Frontend: 🎨 HTML5 | 💅 CSS3 | ⚡ Bootstrap 
 - Tools & Environments: 🔧 VS Code | 🖥️ Microsoft | 🌀 Git
 
 🔎 About Me
