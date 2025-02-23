@@ -23,7 +23,7 @@ He/Him
 Before starting my tech journey, I spent over 8 years in industrial and commercial management. My experience taught me the importance of efficiency and client satisfaction, which now drives my approach to software development.
 
 🛠️ Skills
-- Languages: 🐍 Python | 💻 C | 📜 JavaScript 🟦 TypeScript
+- Languages: 🐍 Python | 💻 C | 📜 JavaScript | 🟦 TypeScript
 - Frameworks & Libraries: 🌐 Flask | 🟢 Node.js | ⚛️ React.js 
 - Databases: 🐬 MySQL | 🍃 MongoDB | 🔴 Redis
 - Frontend: 🎨 HTML5 | 💅 CSS3 | ⚡ Bootstrap 
